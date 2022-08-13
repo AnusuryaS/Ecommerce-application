@@ -1,0 +1,5 @@
+*.sqlite*
+.idea
+/public/backend
+/public/frontend
+/public/uploads
